@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **RyanjOberly@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_sOJw2JCFAhcka0etmhLBn510uVjCOes52zBXMqfaiM/edit?usp=sharing](https://docs.google.com/document/d/1_sOJw2JCFAhcka0etmhLBn510uVjCOes52zBXMqfaiM/edit?usp=sharing)
 
 - ⚡ Fun fact **I can still do a backflip on the ground...I'm not looking forward to the day I learn that I can't anymore 🤕**
 
