@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👀, I'm Ryan</h1>
 <h3 align="center">A Full-Stack/FrontEnd Development Student at Bloomtech</h3>
 
-- 🔭 I’m currently working on [Culinary-Compass](https://github.com/roberly2120/CulinaryCompass) 
+- 🔭 I’m currently working on [Culinary-Compass](https://github.com/roberly2120/CulinaryCompass). -  
     This project  has been a ton of fun for me to practice and learn new skills. Go give it a try!
 - 🌱 I’m currently learning **Javascript, React, AI as a component**
 
