@@ -1,10 +1,10 @@
 <h1 align="center">Hello! 👀, I'm Ryan</h1>
-<h3 align="center">A Full-Stack/FrontEnd Development Student at Bloomtech</h3>
+<h3 align="center">A Front End Web Developer Specializing in React</h3>
 
 - 🔭 I’m currently working on [Culinary-Compass](https://github.com/roberly2120/CulinaryCompass).   
 -    This project ^ has been a ton of fun for me to practice and learn new skills. Go give it a try!
-- 🌱 I’m currently learning **Javascript, React, AI as a component**
-
+- 🌱 I’m currently learning **Python, How to control and integrate machinery using Raspberry Pi for IoT applications.**
+- ✨ **JavaScript | React | OpenAI | Node.js | Express.js**
 - 💬 Ask me about **Fantasy novels, motorcycles, living in the Rockies, or homemade bread!**
 
 - 📫 How to reach me **RyanjOberly@gmail.com**
