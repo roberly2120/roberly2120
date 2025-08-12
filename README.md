@@ -1,16 +1,12 @@
 <h1 align="center">Hello! 👀, I'm Ryan</h1>
-<h3 align="center">A Front End Web Developer Specializing in React</h3>
+<h3 align="center">A Front End Web Developer at Varfaj</h3>
 
-- 🔭 I’m currently working on [Culinary-Compass](https://github.com/roberly2120/CulinaryCompass).   
--    This project ^ has been a ton of fun for me to practice and learn new skills. Go give it a try!
+- ✨ **JS | TS | React | React Router | Liquid | Shopify Development**
 - 🌱 I’m currently learning **Python, How to control and integrate machinery using Raspberry Pi for IoT applications.**
-- ✨ **JavaScript | React | OpenAI | Node.js | Express.js**
-- 💬 Ask me about **Fantasy novels, motorcycles, living in the Rockies, or homemade bread!**
+- 💬 Ask me about **Fantasy novels, motorcycles, living in the Rockies, or homemade hard cider!**
 
 - 📫 How to reach me **RyanjOberly@gmail.com**
 
-
-- ⚡ Fun fact **I can still do a backflip on the ground...I'm not looking forward to the day I learn that I can't anymore 🤕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
